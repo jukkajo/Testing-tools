@@ -10,7 +10,7 @@ import sys
 # Printing actions of this script are not very refined
 
 devices_array = []
-packet_cnt = 100 # Supposed to be to some higher number e.g 500-100
+packet_cnt = 100 # Supposed to be to some higher number e.g 500-1000
 
 # Timeframe
 inter_ms = 0.1 # Change according packet count 
