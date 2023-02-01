@@ -6,8 +6,8 @@ import sys
 
 # @Jukka J
 # 01.02.2023
-# I highly encourage not to use this script in unmodified, or by other words, in more restricted state in public places.
-# For testing purposes only. Printing actions of this script are not very refined
+# For testing purposes only. I highly encourage not to use this script in public places without restricting modifications.
+# Printing actions of this script are not very refined
 
 devices_array = []
 packet_cnt = 100 # Supposed to be to some higher number e.g 500-100
